@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Header Banner (Opsional: ganti URL dengan banner buatanmu atau hapus baris ini) -->
+  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=Halo,%20saya%20Nara!%20👋&fontSize=42&fontColor=fff&animation=fadeIn" alt="Header Banner" width="100%" />
 
   <p align="center">
@@ -10,6 +10,7 @@
   <p align="center">
     <a href="https://naraandratyaga.my.id"><img src="https://img.shields.io/badge/Website-naraandratyaga.my.id-0070F3?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:indraandra545@gmail.com"><img src="https://img.shields.io/badge/Email-Hubungi%20Saya-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/andratyg"><img src="https://img.shields.io/badge/GitHub-andratyg-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
 </div>
@@ -57,12 +58,12 @@
 ### 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andratyg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andratyg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <p align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andratyg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
@@ -71,8 +72,8 @@
 
 | Proyek | Deskripsi | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Student Workspace Pro** | Platform produktivitas dan manajemen tugas terintegrasi | Next.js, Tailwind, Firebase | [Repository](https://github.com/USERNAME_KAMU) |
-| **TaniSmart** | Sistem pemantauan tanaman berbasis IoT & AI | ESP32, Sensors, Gemini API | [Repository](https://github.com/USERNAME_KAMU) |
+| **Student Workspace Pro** | Platform produktivitas dan manajemen tugas terintegrasi | Next.js, Tailwind, Firebase | [Lihat Repository](https://github.com/andratyg) |
+| **TaniSmart** | Sistem pemantauan tanaman berbasis IoT & AI | ESP32, Sensors, Gemini API | [Lihat Repository](https://github.com/andratyg) |
 | **Personal Portfolio** | Web portofolio interaktif dengan sistem tema dinamis | React, Next.js, Tailwind | [Demo Live](https://naraandratyaga.my.id) |
 
 ---
