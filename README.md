@@ -1,7 +1,7 @@
-<div align="center">
+
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=Halo,%20saya%20Nara!%20👋&fontSize=42&fontColor=fff&animation=fadeIn" alt="Header Banner" width="100%" />
+  <img width="3584" height="1184" alt="Baner" src="https://github.com/user-attachments/assets/677ad69d-f59d-43c6-ba81-43aa95c8b522" />
 
   <p align="center">
     <strong>Software Engineering Student & Full-Stack Web Developer</strong>
